@@ -1,8 +1,8 @@
-# obsidian-clipper-custom-builds
+# relege-builds
 
-Self-hosted Firefox extension auto-update endpoint for personal obsidian-clipper customizations.
+Self-hosted Firefox auto-update endpoint for **Relege** — a private, durable reader that saves, highlights, and syncs web pages, PDFs, and EPUBs.
 
-- `updates.json` — Firefox update manifest, polled automatically by installed extensions
-- XPIs are published as GitHub Releases
+- `updates.json` — Firefox update manifest, polled automatically by installed builds
+- Signed XPIs are published as GitHub Releases
 
-The extension (installed from a release XPI) checks `updates.json` periodically and auto-updates when a new version is published.
+Installed Relege builds check `updates.json` periodically and auto-update when a new version is published.

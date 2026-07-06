@@ -3,8 +3,8 @@
     "app@relege.app": {
       "updates": [
         {
-          "version": "0.1.0",
-          "update_link": "https://github.com/Sancerro/obsidian-clipper-custom-builds/releases/download/v0.1.0/obsidian-clipper-firefox.xpi"
+          "version": "0.1.1",
+          "update_link": "https://github.com/Sancerro/relege-builds/releases/download/v0.1.1/relege-firefox.xpi"
         }
       ]
     }
